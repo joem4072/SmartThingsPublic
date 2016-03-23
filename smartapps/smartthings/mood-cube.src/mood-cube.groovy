@@ -336,6 +336,3 @@ private sceneName(num) {
 	final names = ["UNDEFINED","One","Two","Three","Four","Five","Six"]
 	settings."sceneName${num}" ?: "Scene ${names[num]}"
 }
-
-
-
